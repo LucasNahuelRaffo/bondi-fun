@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LucasNahuelRaffo/bondi-fun/static/css/main.ee4db2b2.css",
+    "main.js": "/LucasNahuelRaffo/bondi-fun/static/js/main.7b6ffeef.js",
+    "static/js/453.ed3810f9.chunk.js": "/LucasNahuelRaffo/bondi-fun/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/LucasNahuelRaffo/bondi-fun/index.html",
+    "main.ee4db2b2.css.map": "/LucasNahuelRaffo/bondi-fun/static/css/main.ee4db2b2.css.map",
+    "main.7b6ffeef.js.map": "/LucasNahuelRaffo/bondi-fun/static/js/main.7b6ffeef.js.map",
+    "453.ed3810f9.chunk.js.map": "/LucasNahuelRaffo/bondi-fun/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee4db2b2.css",
+    "static/js/main.7b6ffeef.js"
+  ]
+}
